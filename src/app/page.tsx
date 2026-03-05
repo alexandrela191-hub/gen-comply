@@ -139,7 +139,7 @@ export default function Page() {
       <EpithetBackground />
 
       <div className="corner-note fade-in">
-        <div>Мужчины янтаря</div>
+        <div>Мужчины Янтаря</div>
         <div>подписываются под каждым словом</div>
       </div>
 
